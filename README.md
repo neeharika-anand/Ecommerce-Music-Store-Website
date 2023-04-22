@@ -1,5 +1,6 @@
 # Ecommerce-Music-Store-Website
 MERN Stack Ecommerce Music Store Website
+
 Steps to run website:
 1. Run the server file named server.js in components (located in src) to establish the mongodb connection (use compass)
 2. Run the react-app with the command npm start
